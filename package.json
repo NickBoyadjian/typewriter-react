@@ -1,10 +1,10 @@
 {
-  "name": "type-writer-react",
-  "version": "1.0.0",
+  "name": "typewriter-react",
+  "version": "1.0.1",
   "description": "React component to simulate typing",
   "author": "nickboyadjian",
   "license": "MIT",
-  "repository": "nickboyadjian/type-writer-react",
+  "repository": "nickboyadjian/typewriter-react",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",

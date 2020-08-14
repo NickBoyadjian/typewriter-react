@@ -1,10 +1,9 @@
 import React from 'react'
 
-import { ExampleComponent } from 'type-writer-react'
-import 'type-writer-react/dist/index.css'
+import TypeWriter from 'type-writer-react'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <TypeWriter input={["Hello, World 🤓"]} speed={75} />
 }
 
 export default App
